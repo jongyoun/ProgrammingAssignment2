@@ -57,7 +57,7 @@ cacheSolve <- function(x, ...) {
 ## # You don't get the message "getting cached inverse matrix", 
 ## # which implicates that the result came through.
 
-## # Now if you try one more,
+## # Now if you try one more, you can get the message.
 ## > cacheSolve(test)
 ## getting cached inverse matrix
 ##       [,1] [,2] [,3]
